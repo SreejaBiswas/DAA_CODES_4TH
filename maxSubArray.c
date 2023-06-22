@@ -59,7 +59,3 @@ int main() {
 	int maxSum=maxSubSum(arr, 0, len-1);
 	printf("Max sub array sum: %d\n", maxSum);
 }
-
-
-7
-12 -13 -5 25 -20 30 10
